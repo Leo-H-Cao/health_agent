@@ -1,3 +1,1 @@
-# Self-hosted Telephony Server
-
-See https://docs.vocode.dev/open-source/telephony for setup steps!
+Try it out at +1(954)719-6079!
